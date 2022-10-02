@@ -1,1 +1,1 @@
-# Snake built with Java
+# Customizable Snake Game built with Java
